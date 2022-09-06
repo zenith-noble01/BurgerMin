@@ -19,7 +19,7 @@ const HomeCount = () => {
       <div className="home__items">
         <div className="item__title">Total Revenue</div>
         <div className="item__count">
-          <p>%10</p>
+          <p>$10</p>
           <BsArrowDownLeftCircleFill className="down" />
           <span>4%</span>
         </div>
